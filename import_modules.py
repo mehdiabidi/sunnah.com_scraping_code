@@ -20,7 +20,6 @@ from bs4 import BeautifulSoup
 from openpyxl import load_workbook
 
 from constants import *
-from jild_hadith_parsing import *
 
 def protect_get_connection_error(url, header={}, tries=4, unlimited=False):
     stop_times = 0

@@ -1,8 +1,6 @@
 from import_modules import *
+from jild_hadith_parsing import *
 
-base_url = "https://sunnah.com"
-
-book_url = "https://sunnah.com/riyadussalihin"
 
 book_jild_json = {}
 

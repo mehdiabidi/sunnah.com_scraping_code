@@ -1,3 +1,6 @@
+base_url = "https://sunnah.com"
+
+book_url = "https://sunnah.com/riyadussalihin"
 
 header = {
     'accept': '*/*',
